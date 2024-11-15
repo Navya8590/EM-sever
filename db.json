@@ -1,0 +1,18 @@
+{
+  "employeeDetails": [
+    {
+      "userId": "1",
+      "userName": "navya",
+      "email": "navyamalu40@gmail.com",
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "userId": "1",
+      "userName": "navya",
+      "email": "navyamalu40@gmail.com",
+      "status": "Active",
+      "id": 3
+    }
+  ]
+}
